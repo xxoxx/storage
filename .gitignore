@@ -1,0 +1,7 @@
+*.6
+*.out
+_test*
+_obj
+*.8
+pkg/
+src/
